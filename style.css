@@ -3,6 +3,9 @@ body{
   margin: 0;
   width: 100vw;
   background: gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   height: 100vh;
 }
 
@@ -33,8 +36,6 @@ body{
 	position: fixed;
 	background: white;
 	display: flex;
-	top: 40%;
-	left: 40%;
 	height: 40%;
 	width: 80%;
 	user-select: none;
