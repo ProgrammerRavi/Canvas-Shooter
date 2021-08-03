@@ -19,15 +19,15 @@ body{
 .scoreBoard{
 	color: white;
 	position: fixed;
-	top: 10px;
-	left: 10px;
+	top: 10%;
+	left: 10%;
 	user-select: none;
 }
 
 .Dev{
 	color: white;
 	position: fixed;
-	top: 10px;
+	top: 30%;
 	left: 50%;
 	user-select: none;
 }
