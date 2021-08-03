@@ -2,6 +2,7 @@ body{
   padding: 0;
   margin: 0;
   width: 100vw;
+  background: black;
   height: 100vh;
   display: flex;
   align-items: center;
